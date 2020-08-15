@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/alanngo/alanngo">
-  <img src="src/me2.jpg" width="400px" />
+  <img src=https://github.com/alanngo/alanngo/blob/master/src/me2.jpg?raw=true" width="400px" />
 </a>
 
   
