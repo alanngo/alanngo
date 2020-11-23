@@ -1,6 +1,20 @@
 
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/alanngo/alanngo">
+			<img src="https://github.com/alanngo/alanngo/blob/master/src/me2.jpg?raw=true" width="400px" />
+			</a>
+		</td>
+		<td>
+			<h2> 💻 Hey There, I am Alan 💻</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+		</td>
+	</tr>
+</table>
 
-<div align="center">
+
+<!-- <div align="center">
 <a href="https://github.com/alanngo/alanngo">
   <img src=https://github.com/alanngo/alanngo/blob/master/src/me2.jpg?raw=true" width="400px" />
 </a>
@@ -21,9 +35,8 @@
 <a href = "https://stackoverflow.com/users/12383616/alan">
 <img src = "https://github.com/alanngo/alanngo/blob/master/src/stackoverflow.jpg?raw=true" width ="35px" height="35px"></a>
 <br>
-<!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/gurusabarish/gurusabarish">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanngo&show_icons=true&theme=dark" />
 </a>
 <br>
-</div>
+</div> -->
