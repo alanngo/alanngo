@@ -98,11 +98,10 @@
  <br />
 
 <!-- If you forked this repo, Change the username as yours -->
-<a href="https://github.com/gurusabarish/gurusabarish">
+<a href="https://github.com/alanngo/alanngo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanngo&show_icons=true&theme=dark" />
-</a>
 
 <a href="https://github.com/alanngo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanngo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 </div>
