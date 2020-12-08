@@ -95,9 +95,14 @@
 <a href = "https://stackoverflow.com/users/12383616/alan">
 <img src = "src/stackoverflow.jpg" width ="35px" height="35px"></a>
 <br>
+ <br />
+
 <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/gurusabarish/gurusabarish">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanngo&show_icons=true&theme=dark" />
 </a>
-<br>
+
+<a href="https://github.com/alanngo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanngo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 </div>
