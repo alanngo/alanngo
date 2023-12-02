@@ -60,8 +60,8 @@ Innovative Software Developer with 3+ years of hands-on experience designing and
 
 
 #### Connect with me:
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](discordapp.com/users/768987740430663711)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://www.linkedin.com/in/alan-ngo-77338a150/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/768987740430663711)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alan-ngo-77338a150/)
 
 <!-- <a href = "https://stackoverflow.com/users/12383616/alan">
 <img src = "src/stackoverflow.jpg" width ="35px" height="35px"></a> -->
